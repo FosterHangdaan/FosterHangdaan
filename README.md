@@ -1,19 +1,8 @@
 ## :smile: About Me
-Hi! My name is Foster Hangdaan.
-
-I love writing code for system automation and web applications. When I have the time, I also contribute to open-source projects.
-
-## :computer: Programming Languages and Frameworks
-- JavaScript
-- Python
-- HTML
-- CSS
-- BASH
-- Vue
-- Flask
+Hi! My name is Foster Hangdaan. I am a software developer with a passion for creating great software applications. 
 
 ## :mag: My Other Spaces
-- [Personal Website](http://www.fosterhangdaan.com)
+- [Personal Website](https://www.fosterhangdaan.com)
 - [Linkedin](https://www.linkedin.com/in/foster-hangdaan/)
 
 ## Donations
