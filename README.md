@@ -4,7 +4,7 @@
   <br />
   <br />
   <a href="https://www.fosterhangdaan.com"><img src="https://img.shields.io/badge/-Website-red" /></a>
-  <a href="https://img.shields.io/badge/-LinkedIn-blue"><img src="https://img.shields.io/badge/-LinkedIn-blue" /></a>
+  <a href="https://www.linkedin.com/in/foster-hangdaan/"><img src="https://img.shields.io/badge/-LinkedIn-blue" /></a>
 </p>
 
 ## :bar_chart: Stats
