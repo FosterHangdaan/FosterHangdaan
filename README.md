@@ -16,3 +16,4 @@ If you liked any of my work, then consider making a crypto donation:
 | Cryptocurrency | Address |
 | -------------  | ------- |
 | Bitcoin | bc1qan5musm6mpn7l5g4lcpd6vtke97lnpgaf7hcuj |
+| Monero | 47LkKwzbo4aKNAzecADmoHMaRWbwuigokjR1AuNikfKcaM9quPiy8CwDWGWXpfWtoo5fd4WfuTgJdFKfTPcFUWQZ3u7xrPD |
